@@ -1,0 +1,3 @@
+﻿  PP Project.cpp
+C:\Users\bonni\source\repos\PP Project\PP Project\PP Project.cpp(266,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PP Project.vcxproj -> C:\Users\bonni\source\repos\PP Project\x64\Debug\PP Project.exe
